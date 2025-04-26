@@ -1,0 +1,11 @@
+<service>
+    <id>PythonSchedService</id>
+    <name>Python Scheduler Service</name>
+    <description>Runs a Python script with scheduled tasks</description>
+    <executable>D:\College\Semester 6 (Magang)\Iseng\SERVICE SCHEDULER\schedule.bat</executable>
+    <arguments></arguments>
+    <logmode>rotate</logmode>
+    <startmode>Automatic</startmode>
+    <logpath>D:\College\Semester 6 (Magang)\Iseng\SERVICE SCHEDULER\logs\</logpath>
+    <env name="PYTHONPATH" value="D:\College\Semester 6 (Magang)\Iseng\SERVICE SCHEDULER" />
+</service>

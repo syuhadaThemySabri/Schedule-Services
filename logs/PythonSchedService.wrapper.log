@@ -1,0 +1,40 @@
+2025-04-26 09:09:58,203 DEBUG - Starting WinSW in console mode
+2025-04-26 09:10:00,655 DEBUG - Starting WinSW in console mode
+2025-04-26 09:10:00,686 INFO  - Uninstalling service 'Python Scheduler Service (PythonSchedService)'...
+2025-04-26 09:10:00,693 INFO  - Service 'Python Scheduler Service (PythonSchedService)' was uninstalled successfully.
+2025-04-26 09:10:05,857 DEBUG - Starting WinSW in console mode
+2025-04-26 09:10:07,525 DEBUG - Starting WinSW in console mode
+2025-04-26 09:10:07,558 INFO  - Installing service 'Python Scheduler Service (PythonSchedService)'...
+2025-04-26 09:10:07,598 INFO  - Service 'Python Scheduler Service (PythonSchedService)' was installed successfully.
+2025-04-26 09:10:15,197 DEBUG - Starting WinSW in console mode
+2025-04-26 09:10:16,838 DEBUG - Starting WinSW in console mode
+2025-04-26 09:10:16,867 INFO  - Starting service 'Python Scheduler Service (PythonSchedService)'...
+2025-04-26 09:10:17,184 DEBUG - Starting WinSW in service mode
+2025-04-26 09:10:17,210 INFO  - Service 'Python Scheduler Service (PythonSchedService)' started successfully.
+2025-04-26 09:10:17,308 INFO  - Starting D:\College\Semester 6 (Magang)\Iseng\SERVICE SCHEDULER\schedule.bat 
+2025-04-26 09:10:17,359 INFO  - Started process 17516
+2025-04-26 09:10:17,372 DEBUG - Forwarding logs of the process System.Diagnostics.Process (cmd) to WinSW.SizeBasedRollingLogAppender
+2025-04-26 09:10:26,353 DEBUG - Starting WinSW in console mode
+2025-04-26 09:18:21,381 DEBUG - Starting WinSW in console mode
+2025-04-26 09:18:23,139 DEBUG - Starting WinSW in console mode
+2025-04-26 09:18:23,169 INFO  - Stopping service 'Python Scheduler Service (PythonSchedService)'...
+2025-04-26 09:18:23,179 INFO  - Service 'Python Scheduler Service (PythonSchedService)' stopped successfully.
+2025-04-26 09:18:23,183 INFO  - Stopping PythonSchedService
+2025-04-26 09:18:23,183 DEBUG - ProcessKill 17516
+2025-04-26 09:18:23,190 DEBUG - Stopping process 17516...
+2025-04-26 09:18:30,024 DEBUG - Starting WinSW in console mode
+2025-04-26 09:18:38,207 DEBUG - Process 17516 terminated.
+2025-04-26 09:18:38,214 INFO  - Finished PythonSchedService
+2025-04-26 09:18:38,704 DEBUG - Starting WinSW in console mode
+2025-04-26 09:18:40,445 DEBUG - Starting WinSW in console mode
+2025-04-26 09:18:40,477 INFO  - Stopping service 'Python Scheduler Service (PythonSchedService)'...
+2025-04-26 09:18:40,490 INFO  - Service 'Python Scheduler Service (PythonSchedService)' has already stopped.
+2025-04-26 09:18:42,930 DEBUG - Starting WinSW in console mode
+2025-04-26 09:18:44,460 DEBUG - Starting WinSW in console mode
+2025-04-26 09:18:44,491 INFO  - Stopping service 'Python Scheduler Service (PythonSchedService)'...
+2025-04-26 09:18:44,505 INFO  - Service 'Python Scheduler Service (PythonSchedService)' has already stopped.
+2025-04-26 09:18:49,396 DEBUG - Starting WinSW in console mode
+2025-04-26 09:18:50,831 DEBUG - Starting WinSW in console mode
+2025-04-26 09:18:50,861 INFO  - Uninstalling service 'Python Scheduler Service (PythonSchedService)'...
+2025-04-26 09:18:50,866 INFO  - Service 'Python Scheduler Service (PythonSchedService)' was uninstalled successfully.
+2025-04-26 09:18:57,765 DEBUG - Starting WinSW in console mode
